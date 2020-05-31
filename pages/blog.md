@@ -7,4 +7,3 @@ eleventyNavigation:
   key: Blog
   order: 2
 ---
- 
