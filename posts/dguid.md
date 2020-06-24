@@ -1,5 +1,5 @@
 ---
-title: Discussion on Chander Pahar by Bibhutibhusan  Bandopadhyay
+title: Chander Pahar || Bibhutibhusan  Bandopadhyay
 date: 2020-06-02T12:13:41.029Z
 author: Sahana
 summary: |
